@@ -30,6 +30,3 @@ This repo contains different types of regression models and a demonstration of h
 ## 9. Hands-on project to predict Insurance (illustrating importance of preprocessed input and output)
 - README file included as part of this folder for the hands-on project
 
-
-
-![Uploading image.png…]()
