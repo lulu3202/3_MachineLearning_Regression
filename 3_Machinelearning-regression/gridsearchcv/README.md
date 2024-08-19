@@ -1,7 +1,7 @@
 #  Hands-on project to predict Insurance implementing Grid Search
 
 ## Introduction
-This project is about using GridSearch method (with and without test/train split data) for SVM, MLR, DT and RT, to predict the outcome of insurance charges based on input parameters of age, sex, bmi, children, smoker, charges via boosting algorithms. 
+This project is about using GridSearch method (with and without test/train split data) for SVM, MLR, DT and RT, to predict the outcome of insurance charges based on input parameters of age, sex, bmi, children, smoker, charges. 
 
 Grid search is a machine learning technique that helps identify the best hyperparameters for a model to improve its accuracy and performance. It's a brute-force method that involves defining a grid of hyperparameter values and evaluating the model's performance at each point on the grid. The goal is to find the combination of parameters that optimizes the model's performance, which can lead to better predictions or classifications
 
