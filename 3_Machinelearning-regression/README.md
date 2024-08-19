@@ -32,4 +32,3 @@ This repo contains different types of regression models and a demonstration of h
 
 
 
-![image](https://github.com/user-attachments/assets/c3878e44-65d2-4d2a-9c0a-1ce8fdc75d77)
